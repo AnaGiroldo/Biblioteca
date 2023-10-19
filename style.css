@@ -1,1 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: white;
+}
 
+h1{
+text-align: center;
+}
+
+p {
+text-align: center;
+}
